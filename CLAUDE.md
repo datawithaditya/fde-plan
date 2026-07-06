@@ -36,6 +36,19 @@ Full plan: fde-daily-plan.html (open in browser for the day-by-day breakdown).
 
 ---
 
+## Teaching Approach — Step by Step First
+
+This project is for learning, not just delivery. Before building anything:
+
+1. **Plan first** — explain what we are about to build, why, and how it fits into the bigger picture.
+2. **Show the steps** — break the build into named steps and show the plan before writing any code.
+3. **Execute one step at a time** — build one piece, explain what it does, confirm understanding before moving to the next.
+4. **Never jump end-to-end** — do not silently build the full feature and present it as done. The learning happens in the journey, not just the result.
+
+Ask "ready to move to the next step?" between steps unless the user has already said to continue.
+
+---
+
 ## Testing Before Marking Done
 
 When implementing any feature, function, or pipeline step:
